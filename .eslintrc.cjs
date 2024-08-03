@@ -15,6 +15,6 @@ module.exports = {
     'react/jsx-no-target-blank': 'off',
     'react-refresh/only-export-components': ['warn', { allowConstantExport: true }],
 
-    'react/prop-types': [2, { ignore: ['children'] }],
+    'react/prop-types': 'off',
   },
 };
